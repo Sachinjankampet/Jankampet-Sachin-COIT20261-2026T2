@@ -14,4 +14,11 @@ This screenshot shows the command used to edit is /etc/network/interfaces, resta
 
 ### HOST4 IP ADDRESS
 ![bgHY](./image/image_1.png)
+
+
+# TASK 2: Testing Network Connectivity and Delay Ping
+
+### ping to an unreachable ip address
 ![img4](./img4.png)
+
+This screenshot shows a ping test to an ip address its not an unreachable ip address
