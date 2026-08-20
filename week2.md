@@ -22,5 +22,10 @@ This screenshot shows the command used to edit is /etc/network/interfaces, resta
 ### ping to an unreachable ip address
 ![img4](./img4.png)
 
-This screenshot shows a ping test to an ip address its not an unreachable ip address
-![img6](./image/week2img6)
+This screenshot shows a ping test to an ip address its not an unreachable ip address the responses shows the demonstrating that the demonstration could not be reached. This helped me understand how ping can be used and verify whether a the device is reachable on a network
+
+
+### ping to host1
+![img6](./image/week2img6.png)
+
+This screenshot shows a successful ping test between two hosts on the same networkwhere the responses confirm that 0% packet loss and the round-trip time. also learned the how ping options are be used and observe their effect on the results
