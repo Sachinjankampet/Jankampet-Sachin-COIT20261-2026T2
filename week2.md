@@ -30,7 +30,7 @@ This screenshot shows a ping test to an ip address its not an unreachable ip add
 
 This screenshot shows a successful ping test between two hosts on the same networkwhere the responses confirm that 0% packet loss and the round-trip time. also learned the how ping options are be used and observe their effect on the results
 
-## Individual Reflection
+## Reflection
 
 I used the ip a command to examine the network configuration for Host1.
 This helped me to identify the loopback and the Ethernet interfaces, wich  including the IP address of 10.1.1.1.
