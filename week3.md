@@ -55,3 +55,10 @@ This screensot shows the GNS3 topolgy with the packet capture which as the optio
 
 ### Netcat message in wireshark
 ![images](./image/task2img10.png)
+
+## Reflection 
+
+This activity helped me to understand that how to configure a network topology and assign it IP addresses, test connectivity using ping 
+Using the wireshark, I captured and analysed the network traffic and viewed transmitted data.
+Overall, this task improved me to understanding of networking protocols, communication, and the importance of the network.
+
