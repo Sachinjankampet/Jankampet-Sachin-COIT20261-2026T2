@@ -34,3 +34,12 @@ show ip route
 ![imges](./image/week5img24.png)
 ![imges](./image/week5img25.png)
 ![imges](./image/week5img26.png)
+
+## Reflection
+
+I compared the IP configuration and the routing tables which i understand the how different the networks are communicate with each other 
+
+the successful of ping tests are confirmed the routing and connectivity between hosts working correctly
+
+so the task, is improved and my practical VLANs, IP Routing, OSPF, network configuration
+
