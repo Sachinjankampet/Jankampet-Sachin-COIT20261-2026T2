@@ -1,2 +1,2 @@
-![Installation images](,/images/openwrt1week7.png)
+![installationimages](./images/openwrt1week7.png)
 
